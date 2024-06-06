@@ -1,0 +1,6 @@
+.button-footer{
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    bottom: 0;
+}

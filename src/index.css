@@ -1,0 +1,10 @@
+:root{
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+  height: 100vh;
+}
+body {
+  margin: 0;
+  height: inherit;
+}
